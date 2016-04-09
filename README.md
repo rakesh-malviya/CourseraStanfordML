@@ -1,3 +1,3 @@
 About::
 =======
-Coursera Stanford Machine Learning assignments in R language
+Coursera Stanford Machine Learning assignments in R language and Python
